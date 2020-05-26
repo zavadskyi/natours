@@ -1,3 +1,3 @@
 # Natours
 
-https://zavadskyi.github.io/Natours/
+[Demo](https://zavadskyi.github.io/natours/)
